@@ -4,9 +4,9 @@ class SfCli < Formula
   desc "Simple wrapper for Salesforce SFDX CLI"
   head "https://github.com/matiasdelgado/sf-cli.git", :branch => "main"
   homepage "https://github.com/matiasdelgado/sf-cli"
-  sha256 "41001ae6b6b2d4583410e4c5b8dec00eb74fc53095bf2e66686613439b95b407"
-  url "https://github.com/matiasdelgado/sf-cli/archive/v0.1.0-beta.tar.gz"
-  version "v0.1.0-beta"
+  sha256 "526a2a9885f4bd93c0b86852872511c8eb742db62ee0d6200fc95593b547e5d2"
+  url "https://github.com/matiasdelgado/sf-cli/archive/v1.0.1.tar.gz"
+  version "v1.0.1"
 
   depends_on "node"
 
